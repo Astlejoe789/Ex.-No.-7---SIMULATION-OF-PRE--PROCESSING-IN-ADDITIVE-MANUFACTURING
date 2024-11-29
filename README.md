@@ -38,10 +38,10 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
-## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![empd ex6 1 (i)](https://github.com/user-attachments/assets/826b1100-d7b8-483e-bc7f-268ec8faedef)
+![empd ex6 1(ii)](https://github.com/user-attachments/assets/e7969c19-4d11-4d5b-8549-47ba84008427)
+![empd ex6 1(iii)](https://github.com/user-attachments/assets/de56f0f5-31f8-44ec-b349-b4bbfe9b7f59)
+
 
 ## Output:
 ![Screenshot 2024-11-29 134216](https://github.com/user-attachments/assets/6ac7d79e-1c82-42c2-8bd4-367f54691a20)
